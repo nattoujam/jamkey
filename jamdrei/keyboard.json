@@ -1,0 +1,44 @@
+{
+  "manufacturer": "nattoujam",
+  "keyboard_name": "jamdrei",
+  "maintainer": "nattoujam",
+  "bootloader": "rp2040",
+  "diode_direction": "COL2ROW",
+  "features": {
+    "bootmagic": true,
+    "command": false,
+    "console": false,
+    "extrakey": true,
+    "mousekey": true,
+    "nkro": true,
+    "encoder": true
+  },
+  "encoder": {
+    "rotary": [
+        { "pin_a": "GP28", "pin_b": "GP27", "resolution": 2 }
+    ]
+  },
+  "matrix_pins": {
+    "direct": [
+        ["GP0", "GP29", "GP4", "GP5", "GP6"],
+    ],
+  },
+  "processor": "RP2040",
+  "url": "",
+  "usb": {
+    "device_version": "1.0.0",
+    "pid": "0x0005",
+    "vid": "0xD903"
+  },
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        {"matrix": [0, 0], "x": 0, "y": 0},
+        {"matrix": [0, 1], "x": 1, "y": 0},
+        {"matrix": [0, 2], "x": 0, "y": 1},
+        {"matrix": [0, 3], "x": 1, "y": 1},
+        {"matrix": [0, 4], "x": 2, "y": 1},
+      ]
+    }
+  }
+}

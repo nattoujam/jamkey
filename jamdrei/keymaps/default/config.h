@@ -1,0 +1,12 @@
+#pragma once
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 3
+
+#define LED_PIN_LAYER_1 GP3
+#define LED_PIN_LAYER_2 GP2
+#define LED_PIN_LAYER_3 GP1
+
+#define ENCODER_A_PINS { GP28 }
+#define ENCODER_B_PINS { GP27 }
+
+#define ENCODER_RESOLUTION 2
