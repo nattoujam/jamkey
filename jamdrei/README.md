@@ -1,6 +1,8 @@
 # jam_drei
 
-![jam_drei](imgur.com image replace me!)
+3-key keyboard
+
+![20251210_015619488](https://github.com/user-attachments/assets/13801a03-d18f-47b8-8e87-918a580bbe7e)
 
 ## QMKのセットアップ
 
