@@ -1,7 +1,7 @@
 {
   "name": "jamdrei",
-  "productId": "0x0005",
-  "vendorId": "0xD903",
+  "productId": "0x2D05",
+  "vendorId": "0xFEED",
   "menus": [],
   "keycodes": [],
   "matrix": { "cols": 5, "rows": 1 },

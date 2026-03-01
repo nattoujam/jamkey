@@ -1,7 +1,7 @@
 {
   "name": "jam",
-  "productId": "0x0001",
-  "vendorId": "0xD903",
+  "productId": "0x2D01",
+  "vendorId": "0xFEED",
   "menus": [],
   "keycodes": [],
   "matrix": { "cols": 8, "rows": 10 },
