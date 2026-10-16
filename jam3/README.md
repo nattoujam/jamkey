@@ -1,4 +1,4 @@
-# jam_drei
+# jam3
 
 3-key keyboard
 
@@ -20,7 +20,7 @@ git clone https://github.com/nattoujam/jamkey
 2. コンパイルする
 
 ```sh
-qmk compile -kb jamkey/jamdrei -km default
+qmk compile -kb jamkey/jam3 -km default
 ```
 
 3. マイコンをPCと接続する
@@ -30,11 +30,11 @@ qmk compile -kb jamkey/jamdrei -km default
 4. 書き込みする
 
 ```sh
-qmk flash -kb jamkey/jamdrei -km default
+qmk flash -kb jamkey/jam3 -km default
 ```
 
 ## キーマップの変更方法
 
 [remapのキーボードをカスタマイズ](https://remap-keys.app/configure) から可能です。
 
-jsonファイルは [jamdrei.json](https://github.com/nattoujam/jamkey/blob/main/jamdrei/jamdrei.json) を使用してください。
+jsonファイルは [jam3.json](https://github.com/nattoujam/jamkey/blob/main/jam3/jam3.json) を使用してください。
